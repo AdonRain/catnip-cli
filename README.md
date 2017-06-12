@@ -1,0 +1,2 @@
+# catnip-cli
+catnip init
